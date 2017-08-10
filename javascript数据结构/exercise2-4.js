@@ -11,3 +11,4 @@ function connect() {
 }
 var words = new Word(['h','e','l','l','o']);
 console.log(words.connect());
+

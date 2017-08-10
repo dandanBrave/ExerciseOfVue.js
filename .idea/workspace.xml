@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a1b490c-1257-4966-a92d-f1605da7dce6" name="Default" comment="数据结构与算法javascript描述第二章第二题提交">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript数据结构/exercise2-4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript数据结构/exercise2-2.js" afterPath="$PROJECT_DIR$/javascript数据结构/exercise2-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript数据结构/exercise2-4.js" afterPath="$PROJECT_DIR$/javascript数据结构/exercise2-4.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +25,8 @@
       <file leaf-file-name="exercise2-4.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -326,7 +326,7 @@
       <workItem from="1502013516515" duration="24631000" />
       <workItem from="1502160565248" duration="18554000" />
       <workItem from="1502326138938" duration="4906000" />
-      <workItem from="1502334011362" duration="4357000" />
+      <workItem from="1502334011362" duration="4391000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法javascript描述第二章第二题提交">
       <created>1502336053067</created>
@@ -335,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502336053067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="数据结构与算法javascript描述第二章第四题提交">
+      <created>1502338587209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502338587209</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56290000" />
+    <option name="totallyTimeSpent" value="56324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,7 +387,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="数据结构与算法javascript描述第二章第二题提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构与算法javascript描述第二章第二题提交" />
+    <MESSAGE value="数据结构与算法javascript描述第二章第四题提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据结构与算法javascript描述第二章第四题提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -782,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
