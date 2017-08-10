@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a1b490c-1257-4966-a92d-f1605da7dce6" name="Default" comment="" />
+    <list default="true" id="2a1b490c-1257-4966-a92d-f1605da7dce6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript数据结构/exercise2-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -42,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleOfObjectArray.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExampleOfObjectArray.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript数据结构/ExampleOfObjectArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="361">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc;n#Point#0" expanded="false" />
               </folding>
@@ -57,8 +60,30 @@
       <file leaf-file-name="exercise2-1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="385">
+              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise2-2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="面试题-数组去重.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../JavaScript-Algorithms-master/JavaScript-Algorithms-master/面试题-数组去重.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,6 +152,7 @@
         <option value="$PROJECT_DIR$/javascript数据结构/UseOfTwoArray.js" />
         <option value="$PROJECT_DIR$/javascript数据结构/ExampleOfObjectArray.js" />
         <option value="$PROJECT_DIR$/javascript数据结构/exercise2-1.js" />
+        <option value="$PROJECT_DIR$/javascript数据结构/exercise2-2.js" />
       </list>
     </option>
   </component>
@@ -181,6 +207,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExerciseOfVue.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExerciseOfVue.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript数据结构" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -216,13 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.ExampleOfObjectArray.js">
-    <configuration default="false" name="vue5-2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Vue.js/shiyanlou/vue5-2.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="vue5-3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Vue.js/shiyanlou/vue5-3.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.exercise2-2.js">
     <configuration default="false" name="indexOfUse.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/javascript数据结构/UseOfIndexOf.js" working-dir="$PROJECT_DIR$/javascript数据结构">
       <method />
     </configuration>
@@ -230,6 +264,12 @@
       <method />
     </configuration>
     <configuration default="false" name="ExampleOfObjectArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ExampleOfObjectArray.js" working-dir="$PROJECT_DIR$/javascript数据结构">
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise2-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exercise2-1.js" working-dir="$PROJECT_DIR$/javascript数据结构">
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise2-2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exercise2-2.js" working-dir="$PROJECT_DIR$/javascript数据结构">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -303,19 +343,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.vue5-2.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.vue5-3.html" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.indexOfUse.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.UseOfTwoArray.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.ExampleOfObjectArray.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.indexOfUse.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.UseOfTwoArray.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ExampleOfObjectArray.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.exercise2-1.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.exercise2-2.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.ExampleOfObjectArray.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.UseOfTwoArray.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.indexOfUse.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.vue5-3.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.vue5-2.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.exercise2-2.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.exercise2-1.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ExampleOfObjectArray.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.UseOfTwoArray.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.indexOfUse.js" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +379,12 @@
       <workItem from="1502013516515" duration="24631000" />
       <workItem from="1502160565248" duration="18554000" />
       <workItem from="1502326138938" duration="4906000" />
-      <workItem from="1502334011362" duration="40000" />
+      <workItem from="1502334011362" duration="1805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51973000" />
+    <option name="totallyTimeSpent" value="53738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,13 +396,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15091679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15091679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32564104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -389,8 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Project/blog/source/_posts/2017-03-01-hexo.md" />
-    <entry file="file://E:/Project/blog/source/_posts/2017-07-10-vue创建第一个程序.md" />
     <entry file="file://$PROJECT_DIR$/HelloWorld/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -718,20 +757,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript数据结构/ExampleOfObjectArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc;n#Point#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="385">
+          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript数据结构/ExampleOfObjectArray.js">
+    <entry file="file://$PROJECT_DIR$/../../JavaScript-Algorithms-master/JavaScript-Algorithms-master/面试题-数组去重.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript数据结构/exercise2-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc;n#Point#0" expanded="false" />
+            <element signature="e#0#49#0" expanded="false" />
           </folding>
         </state>
       </provider>
