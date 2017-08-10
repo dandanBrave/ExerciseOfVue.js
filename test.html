@@ -1,0 +1,56 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vue</title>
+
+</head>
+
+<body>
+<div id="div1">
+    n:<input v-model="n">
+    s:<input v-model="s">
+    L:<input v-model="L">
+    <br><br>
+    CD数量: {{ CD }}
+    <br><br>
+    <button v-on:click="onClickBtn">计算</button>
+</div>
+
+<script src="vue.js"></script>
+<script>
+    var dev1 = new Vue({
+        el: '#div1',
+        data: {
+            CD: 0,
+            n:1,
+            s:1,
+            L:1,
+        },
+        methods:{
+            onClickBtn:function numOfCD(n, s, l){
+                //你的代码
+                if(n>100 || s>l || l>10000 || s>10000){
+                    return -1;
+                }
+                var t =Math.floor((l+1)/(s+1));
+                if(n<t){
+                    t = n;
+                }
+                if(t%13==0){
+                    t--;
+                }
+                var sum =Math.floor(n/t);
+                var re = n%t;
+                if(re>0){
+                    sum++;
+                    if(re%13==0&&t-re==1){
+                        sum++;
+                    }
+                }
+                console.log(sum);
+            }
+        })
+</script>
+</body>
+
+</html>

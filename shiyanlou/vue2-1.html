@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs简单示例</title>
+    <script src="./vue.js"></script>
+</head>
+<body>
+<div id="demo">
+    <h1 v-html="msg">title</h1>
+</div>
+
+<script>
+    new Vue({
+        el: "#demo",
+        data:{
+            msg:"one<br><hr>two"
+        }
+    })
+</script>
+</body>
+</html>

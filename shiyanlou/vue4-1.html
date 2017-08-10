@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs的v-bind指令使用</title>
+    <script src="./vue.js"></script>
+    <style>
+        .active{
+            color:red;
+            background: lemonchiffon;
+        }
+    </style>
+</head>
+<body>
+<div id="demo">
+    <a v-bind:class="{active:isActive}">红色</a>
+</div>
+
+<script>
+    new Vue({
+        el: "#demo",
+        data:{
+            isActive:true
+        }
+    })
+</script>
+</body>
+</html>

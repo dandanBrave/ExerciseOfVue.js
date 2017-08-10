@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs组件使用</title>
+    <script src="./vue.js"></script>
+</head>
+<body>
+<div id="demo">
+    <h1>{{msg}}</h1>
+    <my-component v-bind:items='items'></my-component>
+</div>
+<script type="text/x-template" id="my_component">
+    <form @submit.prevent="additem(newitem)">
+        <div v-for="item in items">
+            <p>{{item.text}}</p>
+        </div>
+        <div>
+            <input type="text" v-model="newitem.text">
+        </div>
+        <div>
+            <button>添加</button>
+        </div>
+    </form>
+</script>
+<script>
+    Vue.component('my-component',{
+        props:['msg','items'],
+        template: '#my_component',
+        data:function () {
+            return{
+                newitem:{text:''}
+            }
+        },
+        methods:{
+            additem:function(newitem){
+                this.items.push(newitem),
+                this.newitem={text:''}
+            }
+        }
+    })
+    new Vue({
+        el: "#demo",
+        data:{
+            msg:"vue.js组件示例",
+            items:[
+                {text:'hello vue.js'}
+            ]
+        }
+    })
+</script>
+</body>
+</html>

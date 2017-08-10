@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs简单示例</title>
+    <script src="./vue.js"></script>
+</head>
+<body>
+<div id="demo">
+    <h1>{{msg}}</h1>
+    <form @submit.prevent="additem(newitem)">
+        <p>{{itemlength}}</p>
+        <div v-for="item in items">
+            <p>{{item.text}}</p>
+        </div>
+        <div>
+            <input type=text v-model="newitem.text">
+        </div>
+        <div>
+            <button>添加</button>
+        </div>
+    </form>
+</div>
+<script>
+    //实例化vuejs
+    new Vue({
+        el: "#demo",
+        data:{
+            msg: 'vue.js计算属性的使用',
+            items:[
+                {text:'hello vue.js'}
+            ],
+            newitem:{text:''}
+        },
+        computed:{
+            itemlength:function () {
+                return this.items.length
+            }
+        },
+        methods:{
+            additem:function(newitem){
+                this.items.push(newitem);
+                this.newitem = {text:''}
+            }
+        }
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs简单示例</title>
+    <script src="./vue.js"></script>
+</head>
+<body>
+<div id="demo">
+    <p v-show="show">You can see me!</p>
+    <p v-show="hide">Can you see me?</p>
+</div>
+
+<script>
+    new Vue({
+        el: "#demo",
+        data:{
+           show:true,
+            hide:false
+        }
+    })
+</script>
+</body>
+</html>

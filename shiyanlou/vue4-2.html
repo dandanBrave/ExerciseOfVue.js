@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vuejs组件使用</title>
+    <script src="./vue.js"></script>
+</head>
+<body>
+<div id="demo">
+    <h1>{{msg}}</h1>
+    <my-component></my-component>
+    <my-component></my-component>
+    <my-component></my-component>
+</div>
+
+<script>
+    Vue.component('my-component',{
+        template:'<div>一个Vuejs组件例子！</div>'
+    })
+    new Vue({
+        el: "#demo",
+        data:{
+            msg:"vue组件使用"
+        }
+    })
+</script>
+</body>
+</html>
