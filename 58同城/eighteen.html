@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>eighteen</title>
+</head>
+<body>
+<script>
+    var lineAdd=0;
+    var inputArr=['2 3 4','1 2 3'];
+    function readline(){
+        var line=inputArr[lineAdd];
+        lineAdd++;
+        return line;
+    }
+    function print(x) {
+        console.log(x);
+    }
+    function drinkPeople(n) {
+        var arr=['S','L','P','R','H'],temp,count=0;
+        while(count!=n){
+            temp=arr.shift();
+            count++;
+            arr.push(temp);
+            arr.push(temp);
+        }
+        print(temp);
+    }
+    drinkPeople(15);
+</script>
+
+</body>
+</html>
