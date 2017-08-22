@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sixteen</title>
+</head>
+<body>
+<script>
+    var lineAdd=0;
+    var inputArr=['2 3 4','1 2 3'];
+    function readline(){
+        var line=inputArr[lineAdd];
+        lineAdd++;
+        return line;
+    }
+    function print(x) {
+        console.log(x);
+    }
+    function isMerge(s,part1,part2) {
+        var len = s.length;
+        var j = 0, k = 0;  //j表示part1的顺序，k表示part2的顺序
+        for(var i=0; i<len; i++){
+            if(s[i]==part1[j]){
+                j++;
+            }else if(s[i]==part2[k]){
+                k++;
+            }else{
+                return false;
+            }
+        }
+        return true;
+    }
+    print(isMerge('codewars','cdw','oears'));
+</script>
+
+</body>
+</html>
