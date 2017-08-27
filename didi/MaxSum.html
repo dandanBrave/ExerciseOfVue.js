@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function MaxSum (data) {
+        var arr = data.split(" ");
+        var len = arr.length;
+        var max = 0;
+        var sum = 0;
+        for(var i = 0; i < len; i++){
+            sum += parseInt(arr[i]);
+            if(sum < 0){
+                sum = 0;
+            }else{
+                if(sum > max){
+                    max = sum;
+                }
+            }
+        }
+        console.log(max);
+    }
+    MaxSum('-23 17 -7 11 -2 1 -34');
+
+</script>
+
+</body>
+</html>
