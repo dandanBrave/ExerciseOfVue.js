@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a1b490c-1257-4966-a92d-f1605da7dce6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alibaba/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/didi/KMax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/didi/KMax.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huawei/ConvertStr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huawei/one.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huawei/secondFunction.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript能力/binaryChange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moban.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toutiao/digit.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toutiao/point.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/中兴/OpenKey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/中兴/OpenKey.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/网易笔试/ColorfulBricks.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/网易笔试/ColorfulBricks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -31,18 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="module.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript能力/module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc;n#createModule#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="binaryChange.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript能力/binaryChange.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,23 +43,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KMax.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/didi/KMax.js">
+      <file leaf-file-name="OpenKey.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/中兴/OpenKey.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc;n#KMax#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="441">
+              <caret line="48" column="20" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="48" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KMax.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/didi/KMax.html">
+      <file leaf-file-name="OpenKey.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/中兴/OpenKey.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="380">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-491">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,6 +78,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="26" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moban.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moban.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,8 +138,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -143,9 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript数据结构/indexOfUse.js" />
-        <option value="$PROJECT_DIR$/javascript数据结构/UseOfTwoArray.js" />
-        <option value="$PROJECT_DIR$/javascript数据结构/ExampleOfObjectArray.js" />
         <option value="$PROJECT_DIR$/javascript数据结构/exercise2-1.js" />
         <option value="$PROJECT_DIR$/javascript数据结构/exercise2-2.js" />
         <option value="$PROJECT_DIR$/javascript数据结构/exercise2-3.js" />
@@ -194,6 +207,9 @@
         <option value="$PROJECT_DIR$/didi/KMax.js" />
         <option value="$PROJECT_DIR$/didi/MaxSum.html" />
         <option value="$PROJECT_DIR$/didi/KMax.html" />
+        <option value="$PROJECT_DIR$/moban.html" />
+        <option value="$PROJECT_DIR$/中兴/OpenKey.html" />
+        <option value="$PROJECT_DIR$/中兴/OpenKey.js" />
       </list>
     </option>
   </component>
@@ -257,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="didi" />
+              <option name="myItemId" value="中兴" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,13 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.KMax.html">
-    <configuration default="false" name="binaryChange.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="binaryChange.js" working-dir="$PROJECT_DIR$/javascript能力">
-      <method />
-    </configuration>
-    <configuration default="false" name="MaxSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MaxSum.js" working-dir="$PROJECT_DIR$/didi">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.OpenKey.js">
     <configuration default="false" name="MaxSum.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/didi/MaxSum.html">
       <method />
     </configuration>
@@ -311,6 +321,12 @@
       <method />
     </configuration>
     <configuration default="false" name="KMax.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/didi/KMax.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenKey.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/中兴/OpenKey.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenKey.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="OpenKey.js" working-dir="$PROJECT_DIR$/中兴">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -384,19 +400,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.binaryChange.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.MaxSum.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.MaxSum.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.KMax.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.KMax.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.MaxSum.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.KMax.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.KMax.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.OpenKey.html" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.OpenKey.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.KMax.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.KMax.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.MaxSum.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.MaxSum.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.binaryChange.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.OpenKey.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.OpenKey.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.KMax.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.KMax.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.MaxSum.html" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +440,7 @@
       <workItem from="1502524140037" duration="35377000" />
       <workItem from="1503067437032" duration="75817000" />
       <workItem from="1503652278027" duration="1189000" />
-      <workItem from="1503733168813" duration="5427000" />
+      <workItem from="1503733168813" duration="12294000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法javascript描述第二章第二题提交">
       <created>1502336053067</created>
@@ -482,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503804526075</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="提交滴滴笔试javascript">
+      <created>1503805264466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1503805264466</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176737000" />
+    <option name="totallyTimeSpent" value="183604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,16 +522,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11212976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12693936" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20110957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27307692" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25784448" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2576923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -552,34 +576,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-18-javascript中this的用法 - 副本.md" />
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-19-javascrip继承方式详解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-20-javascrip继承的理解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ajax--master/ajax--master/index.html" />
-    <entry file="file://$PROJECT_DIR$/../../ajax--master/ajax--master/ajax2.js" />
     <entry file="file://$PROJECT_DIR$/../../ajax--master/ajax--master/main.js" />
     <entry file="file://$PROJECT_DIR$/../../ajax--master/ajax--master/example/README.md" />
     <entry file="file://$PROJECT_DIR$/../../ajax--master/ajax--master/example/js_server/server.js" />
@@ -736,16 +737,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/huawei/ConvertStr.html" />
-    <entry file="file://$PROJECT_DIR$/alibaba/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huawei/ConvertStr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -807,14 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numOfCD.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/didi/KMax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -843,6 +826,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/didi/KMax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript能力/binaryChange.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -853,10 +852,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/didi/KMax.html">
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numOfCD.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moban.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中兴/OpenKey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="48" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中兴/OpenKey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
