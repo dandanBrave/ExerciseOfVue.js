@@ -8,12 +8,14 @@
 <script>
 var lineAdd = 0;      //输入行计数
 var lineArr = ['1 2','3 4'];        //输入两行
+
 //模拟输入
 function readline() {
     var line = lineArr[lineAdd];
     lineAdd++;
     return line;
 }
+
 //模拟输出
 function print(x) {
     console.log(x);
