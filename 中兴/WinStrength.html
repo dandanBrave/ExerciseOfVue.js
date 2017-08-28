@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WinStrength</title>
+</head>
+<body>
+<script>
+    function WinStrength(numOfKids,cardDrawn,studentPair,strength) {
+        if(numOfKids>100000||numOfKids<1 || cardDrawn>100000 ||cardDrawn<0 ||strength>100000||strength<0 || numOfKids<0){
+            return;
+        }
+        var lists = [];
+        for(var i=0;i<cardDrawn;i++){
+            var x = studentPair[i][0];
+            var y = studentPair[i][1];
+
+            if(lists.length == 0){
+                var list = [];
+                list.push(x);
+                list.push(y);
+                lists.push(list);
+            }else{
+                var flag = 0;
+               for(var j in lists){
+                   if(lists[j].indexOf(x)!=-1 && lists[j].indexOf(y)==-1){
+                       lists[j].push(y);
+                       flag = 1;
+                       break;
+                   }else if(lists[j].indexOf(x)==-1 && lists[j].indexOf(y)!=-1) {
+                       lists[j].push(x);
+                       flag = 1;
+                       break;
+                   }
+               }
+               if(flag == 0){
+                   var list = [];
+                   list.push(x);
+                   list.push(y);
+                   lists.push(list);
+               }
+
+            }
+        }
+        var peo = new Array(numOfKids);
+        var max = 0;
+        for(var i=0; i<lists.length; i++){
+            var sum = 0;
+            for(var j = 0; j<lists[i].length; j++){
+
+                sum += strength[lists[i][j]-1];
+                peo[lists[i][j]-1] = 1;
+            }
+            if(sum > max){
+                max = sum;
+            }
+        }
+        for(var i=0; i<numOfKids; i++){
+            if(peo[i]!=1){
+                if(strength[i] > max){
+                    max = strength[i];
+                }
+            }
+        }
+        console.log(max);
+    }
+   // WinStrength(9,6,[[1,2],[2,3],[7,8],[5,6],[7,9],[4,5]],[25,34,23,45,16,51,29,38,47]);
+    WinStrength(4,3,[[1,2],[2,3],[3,1]],[11,2,3,5]);
+</script>
+
+</body>
+</html>
