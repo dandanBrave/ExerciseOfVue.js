@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var readline = require('readline');
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout
+    });
+    var input="";
+    var input_array="";
+    process.stdin.resume();
+    process.stdin.setEncoding('ascii');
+    process.stdin.on('data', function (data) {
+        input += data;
+    });
+    var n;
+    var arr=[];
+    process.stdin.on('end', function () {
+        input_array = input.split("\n");
+        // 处理input
+        n=input_array[0];
+        arr=input_array[1].split(" ").map(function(item){
+            return parseInt(item,10);
+        });
+        //将自己写的函数运行起来
+        console.log(FindGreatestSumOfSubArray(arr));
+    });
+    //自己定义的函数
+    function FindGreatestSumOfSubArray(array){
+        var max=array[0];
+        var temp=array[0];
+        for(var i=0;i<array.length;i++){
+            temp=Math.max(temp+array[i],array[i]);
+            max=Math.max(temp,max);
+        }
+        return max;
+    }
+</script>
+
+</body>
+</html>

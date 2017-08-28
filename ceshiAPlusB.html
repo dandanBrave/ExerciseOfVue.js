@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var lineAdd = 0;
+    var lineArr = ['1 2','3 4'];
+    function readline() {
+        var line = lineArr[lineAdd];
+        lineAdd++;
+        return line;
+    }
+    function print(x) {
+        console.log(x);
+    }
+
+    while(line = readline()){
+        lines = line.split(' ');
+        var a = parseInt(lines[0]);
+        var b = parseInt(lines[1]);
+        print(a+b);
+    }
+</script>
+
+
+</body>
+</html>

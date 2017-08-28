@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var len;
+    while(len=readline()){
+        var line=readline().split(' ');
+        var z=[];
+        var res;
+        for(var i=0;i<len;i++)
+        {
+            for(var j=i;j<=len;j++)
+            {
+                z.push(line.slice(i,j+1).reduce(function(a,b){
+                    return Number(a)+Number(b);
+                },0));
+            }
+        }
+        res=Math.max.apply(null,z);
+        print(res);
+    }
+</script>
+
+</body>
+</html>
