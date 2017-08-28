@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var lineAdd=0;
+    var inputArr=['AAA'];
+    function readline(){
+        var line=inputArr[lineAdd];
+        lineAdd++;
+        return line;
+    }
+    function print(x){
+        console.log(x);
+    }
+
+    var s = readline().split('');
+    var obj = {};
+    var count = 0;
+    for(var i=0; i<s.length; i++){
+        if(obj[s[i]]){
+            obj[s[i]]++;
+        }else{
+            obj[s[i]]=1;
+            count++;
+        }
+    }
+    if(count>2){
+        print(0)
+    }else if(count==2){
+        print(2)
+    }else if(count==1){
+        print(1)
+    }else{
+        print(0)
+    }
+
+</script>
+</body>
+</html>
