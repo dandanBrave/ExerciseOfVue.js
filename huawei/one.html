@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function ConvertStr(str) {
+        if(str.length>20){
+            console.log("ERROR!")
+            return
+        }
+        var newArr
+        var pattern = /^[A-Za-z0-9]+$/
+        if(pattern.exec(str)) {
+            for (var i = 0; i < str.length; i+2) {
+                newArr += str.charCodeAt(i)
+            }
+        }else{
+            console.log("ERROR!")
+            return
+        }
+        console.log(newArr)
+    }
+    ConvertStr('cdefg22es')
+</script>
+
+</body>
+</html>
