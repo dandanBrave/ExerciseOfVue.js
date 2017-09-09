@@ -7,18 +7,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huawei/secondFunction.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huawei/按字节截取字符串.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript能力/binaryChange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testOfNodeShuruShuchu.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toutiao/digit.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toutiao/point.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典题目/html中出现次数最多的标签.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/网易笔试/IndependentXiaoYi.html" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/ceshiAPlusB.html" afterPath="$PROJECT_DIR$/js编程模板/ceshiAPlusB.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jianzhi/GetNumberOfK二分.html" afterPath="$PROJECT_DIR$/jianzhi/GetNumberOfK二分.js" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/mubanOfNode.html" afterPath="$PROJECT_DIR$/js编程模板/mubanOfNode.html" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/mubanOfV8.html" afterPath="$PROJECT_DIR$/js编程模板/mubanOfV8.html" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/mubanOfmonishurushuchu.html" afterPath="$PROJECT_DIR$/js编程模板/mubanOfmonishurushuchu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/didi/didiexercise/MaxSum.html" afterPath="$PROJECT_DIR$/didi/didiexercise/MaxSum.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="html中出现次数最多的标签.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/经典题目/html中出现次数最多的标签.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc;n#fn#0" expanded="false" />
               </folding>
@@ -58,22 +57,102 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Vuelife.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue生命周期/Vuelife.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="779">
+              <caret line="41" column="69" lean-forward="true" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testOfNodeShuruShuchu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testOfNodeShuruShuchu.html">
+      <file leaf-file-name="2017-08-23-前端面试题3.md" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Project/blog/source/_posts/2017-08-23-前端面试题3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="19">
+                <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetNumberOfK.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhi/GetNumberOfK.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="12" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="19">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="17" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc;n#GetNumberOfK#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetNumberOfK二分.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhi/GetNumberOfK二分.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMax.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/didi/KMax.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="20" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-07-Vue生命周期及钩子函数简介.md" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Project/blog/source/_posts/2017-09-07-Vue生命周期及钩子函数简介.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="228">
+                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
+                <folding>
+                  <marker date="1504767087857" expanded="true" signature="513:4171" ph="..." />
+                  <marker date="1504767087857" expanded="true" signature="520:609" ph="..." />
+                  <marker date="1504767087857" expanded="true" signature="615:4163" ph="..." />
+                  <marker date="1504767087857" expanded="true" signature="631:776" ph="..." />
+                  <marker date="1504767087857" expanded="true" signature="809:4155" ph="..." />
+                  <marker date="1504767087857" expanded="true" signature="832:4145" ph="{&quot;el&quot;: '##app'...}" />
+                  <marker date="1504767087857" expanded="true" signature="868:915" ph="{&quot;message&quot;: &quot;Welcome Vue&quot;...}" />
+                  <marker date="1504767087857" expanded="true" signature="933:1098" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="956:1018" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="1042:1088" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="1134:1458" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="1489:1844" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="1879:2245" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="2276:2626" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="2662:3066" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="3097:3423" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="3460:3785" ph="{...}" />
+                  <marker date="1504767087857" expanded="true" signature="3818:4139" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue生命周期/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1502027753540" expanded="true" signature="207410:207419" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +163,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -104,21 +184,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="E:/Project/blog/source/_posts/2017-08-21-原生实现ajax.md" />
-        <option value="$PROJECT_DIR$/alibaba/模拟第八题.html" />
-        <option value="E:/Project/blog/source/_posts/2017-08-21-javascript闭包.md" />
-        <option value="E:/Project/blog/source/_posts/2017-08-17-前端面试题1.md" />
-        <option value="$PROJECT_DIR$/58同城/seventeen.html" />
-        <option value="$PROJECT_DIR$/58同城/sixteen.html" />
-        <option value="$PROJECT_DIR$/58同城/one.html" />
-        <option value="$PROJECT_DIR$/58同城/eighteen.html" />
         <option value="E:/Project/blog/source/_posts/2017-08-22-浏览器同源政策及其规避方法.md" />
         <option value="E:/Project/blog/source/_posts/2017-08-22-跨域资源共享 CORS 详解.md" />
         <option value="$PROJECT_DIR$/toutiao/point.html" />
         <option value="$PROJECT_DIR$/toutiao/digit.html" />
         <option value="E:/Project/blog/source/_posts/2017-08-23-TCPIP四层模型.md" />
         <option value="E:/Project/blog/source/_posts/2017-08-20-前端面试题2.md" />
-        <option value="E:/Project/blog/source/_posts/2017-08-23-前端面试题3.md" />
         <option value="$PROJECT_DIR$/alibaba/test.js" />
         <option value="$PROJECT_DIR$/huawei/ConvertStr.html" />
         <option value="$PROJECT_DIR$/huawei/one.html" />
@@ -155,6 +226,15 @@
         <option value="$PROJECT_DIR$/jianzhi/ChouShu.html" />
         <option value="$PROJECT_DIR$/jianzhi/ChouShu.js" />
         <option value="$PROJECT_DIR$/jianzhi/CiShuGuoBanDeShu.js" />
+        <option value="$PROJECT_DIR$/Vue生命周期/Vuelife.html" />
+        <option value="E:/Project/blog/source/_posts/2017-09-07-Vue生命周期及钩子函数.md" />
+        <option value="E:/Project/blog/source/_posts/2017-08-23-前端面试题3.md" />
+        <option value="$PROJECT_DIR$/jianzhi/FirstNotRepetingChar.js" />
+        <option value="E:/Project/blog/source/_posts/2017-09-08-BFC解析.md" />
+        <option value="$PROJECT_DIR$/jianzhi/GetNumberOfK.css" />
+        <option value="$PROJECT_DIR$/jianzhi/GetNumberOfK.js" />
+        <option value="$PROJECT_DIR$/jianzhi/GetNumberOfK二分.html" />
+        <option value="$PROJECT_DIR$/jianzhi/GetNumberOfK二分.js" />
       </list>
     </option>
   </component>
@@ -174,9 +254,10 @@
     <handled-path value="$PROJECT_DIR$/HelloWorld/hello/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
-    <option name="width" value="1460" />
-    <option name="height" value="900" />
+    <option name="x" value="180" />
+    <option name="y" value="49" />
+    <option name="width" value="1202" />
+    <option name="height" value="818" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,8 +275,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,14 +312,15 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interview" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="nodejs_interpreter_path" value="D:/program/nodeJS/node-v8.1.3-win-x64/node" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Project/blog/source/_posts/2017-03-11-vue基础.md" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Project/blog/source/_posts/2017-08-23-TCPIP四层模型.md" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -261,20 +343,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.CiShuGuoBanDeShu.js">
-    <configuration default="false" name="html中出现次数最多的标签.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="html中出现次数最多的标签.js" working-dir="$PROJECT_DIR$/经典题目">
-      <method />
-    </configuration>
-    <configuration default="false" name="CiShuGuoBanDeShu.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/jianzhi/CiShuGuoBanDeShu.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="ChouShu.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/jianzhi/ChouShu.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.GetNumberOfK二分.js">
     <configuration default="false" name="ChouShu.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ChouShu.js" working-dir="$PROJECT_DIR$/jianzhi">
       <method />
     </configuration>
     <configuration default="false" name="CiShuGuoBanDeShu.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CiShuGuoBanDeShu.js" working-dir="$PROJECT_DIR$/jianzhi">
+      <method />
+    </configuration>
+    <configuration default="false" name="Vuelife.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/ExerciseOfVue.js/Vue生命周期/Vuelife.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="FirstNotRepetingChar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FirstNotRepetingChar.js" working-dir="$PROJECT_DIR$/jianzhi">
+      <method />
+    </configuration>
+    <configuration default="false" name="GetNumberOfK二分.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/jianzhi/GetNumberOfK二分.js" working-dir="$PROJECT_DIR$/jianzhi">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -348,19 +430,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.html中出现次数最多的标签.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.CiShuGuoBanDeShu.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ChouShu.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.ChouShu.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.CiShuGuoBanDeShu.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.ChouShu.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.CiShuGuoBanDeShu.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Vuelife.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.FirstNotRepetingChar.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.GetNumberOfK二分.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.CiShuGuoBanDeShu.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ChouShu.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ChouShu.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.CiShuGuoBanDeShu.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.html中出现次数最多的标签.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.GetNumberOfK二分.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.FirstNotRepetingChar.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Vuelife.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.CiShuGuoBanDeShu.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ChouShu.js" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +471,8 @@
       <workItem from="1503067437032" duration="75817000" />
       <workItem from="1503652278027" duration="1189000" />
       <workItem from="1503733168813" duration="47859000" />
-      <workItem from="1504279742474" duration="9246000" />
+      <workItem from="1504279742474" duration="20905000" />
+      <workItem from="1504883272802" duration="4225000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法javascript描述第二章第二题提交">
       <created>1502336053067</created>
@@ -517,11 +600,46 @@
       <option name="project" value="LOCAL" />
       <updated>1504752444668</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add模板">
+      <created>1504752518304</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1504752518304</updated>
+    </task>
+    <task id="LOCAL-00020" summary="提交中兴笔试javascript">
+      <created>1504752558037</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1504752558037</updated>
+    </task>
+    <task id="LOCAL-00021" summary="关于vue生命周期">
+      <created>1504797166558</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1504797166558</updated>
+    </task>
+    <task id="LOCAL-00022" summary="剑指offer">
+      <created>1504799868816</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1504799868816</updated>
+    </task>
+    <task id="LOCAL-00023" summary="提交中兴笔试javascript">
+      <created>1504886374371</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1504886374371</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228415000" />
+    <option name="totallyTimeSpent" value="244299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,14 +651,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1460" height="900" extended-state="0" />
+    <frame x="180" y="49" width="1202" height="818" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13502109" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20532647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.236911" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33870968" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -553,24 +671,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30384615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.033850495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2576923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -584,121 +684,24 @@
     <MESSAGE value="提交58模拟题" />
     <MESSAGE value="提交javascript练习题" />
     <MESSAGE value="提交滴滴笔试javascript" />
-    <MESSAGE value="提交中兴笔试javascript" />
     <MESSAGE value="提交javascript提交程序的模板" />
     <MESSAGE value="提交网易笔试彩色砖块" />
     <MESSAGE value="提交jsonp" />
     <MESSAGE value="提交轮播图的实现" />
     <MESSAGE value="提交剑指offer" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交剑指offer" />
+    <MESSAGE value="add模板" />
+    <MESSAGE value="关于vue生命周期" />
+    <MESSAGE value="剑指offer" />
+    <MESSAGE value="提交中兴笔试javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交中兴笔试javascript" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-22-跨域资源共享 CORS 详解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-37">
-            <caret line="142" column="2" lean-forward="false" selection-start-line="142" selection-start-column="2" selection-end-line="142" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-22-浏览器同源政策及其规避方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1501">
-            <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-17-前端性能优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="200">
-            <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/digit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-20-前端面试题2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="656">
-            <caret line="205" column="38" lean-forward="true" selection-start-line="205" selection-start-column="38" selection-end-line="205" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-23-前端面试题3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-17-前端面试题1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="9386">
-            <caret line="494" column="6" lean-forward="false" selection-start-line="494" selection-start-column="6" selection-end-line="494" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Project/blog/source/_posts/2017-08-23-TCPIP四层模型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="608">
-            <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toutiao/point.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huawei/ConvertStr.html" />
-    <entry file="file://$PROJECT_DIR$/javascript能力/or.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript能力/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../李丹丹.html" />
     <entry file="file://$PROJECT_DIR$/didi/KMax.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -733,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-591">
           <caret line="4" column="26" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc;n#valueAtBit#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,13 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/didi/KMax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js编程模板/ceshiAPlusB.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -834,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="37" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,26 +884,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/ChouShu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhi/CopyOfLinkChart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/ChouShu.html" />
+    <entry file="file://$PROJECT_DIR$/jianzhi/CopyOfLinkChart.html" />
     <entry file="file://$PROJECT_DIR$/huawei/按字节截取字符串.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -930,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -938,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,25 +916,15 @@
         <state relative-caret-position="226">
           <caret line="198" column="0" lean-forward="true" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典题目/html中出现次数最多的标签.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc;n#fn#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#7;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -974,22 +933,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue生命周期/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1502027753540" expanded="true" signature="207410:207419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue生命周期/Vuelife.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="69" lean-forward="true" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/blog/source/_posts/2017-09-07-Vue生命周期及钩子函数.md" />
+    <entry file="file://E:/Project/blog/source/_posts/2017-08-23-TCPIP四层模型 - 副本.md" />
+    <entry file="file://E:/Project/blog/source/_posts/2017-08-23-TCPIP四层模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testOfNodeShuruShuchu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="12" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="608">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="347">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/FirstNotRepetingChar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典题目/html中出现次数最多的标签.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc;n#fn#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/blog/source/_posts/2017-09-07-Vue生命周期及钩子函数简介.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
+            <folding>
+              <marker date="1504767087857" expanded="true" signature="513:4171" ph="..." />
+              <marker date="1504767087857" expanded="true" signature="520:609" ph="..." />
+              <marker date="1504767087857" expanded="true" signature="615:4163" ph="..." />
+              <marker date="1504767087857" expanded="true" signature="631:776" ph="..." />
+              <marker date="1504767087857" expanded="true" signature="809:4155" ph="..." />
+              <marker date="1504767087857" expanded="true" signature="832:4145" ph="{&quot;el&quot;: '##app'...}" />
+              <marker date="1504767087857" expanded="true" signature="868:915" ph="{&quot;message&quot;: &quot;Welcome Vue&quot;...}" />
+              <marker date="1504767087857" expanded="true" signature="933:1098" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="956:1018" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="1042:1088" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="1134:1458" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="1489:1844" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="1879:2245" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="2276:2626" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="2662:3066" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="3097:3423" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="3460:3785" ph="{...}" />
+              <marker date="1504767087857" expanded="true" signature="3818:4139" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/blog/source/_posts/2017-09-08-BFC解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-494">
+            <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/GetNumberOfK.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/blog/source/_posts/2017-08-23-前端面试题3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/GetNumberOfK.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc;n#GetNumberOfK#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/didi/KMax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhi/GetNumberOfK二分.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
