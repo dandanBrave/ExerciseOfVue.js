@@ -1,5 +1,5 @@
 var lineAdd = 0;      //输入行计数
-var lineArr = ['RGRGR'];        //输入两行
+var lineArr = ['GGRRRR'];        //输入两行
 
 //模拟输入
 function readline() {
@@ -12,6 +12,7 @@ function readline() {
 function print(x) {
     console.log(x);
 }
+
 var input = readline().split('')
 var len = input.length;
 var ans = len;
