@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function FindContinuousSequence(sum)
+    {
+        // write code here
+        if(sum < 3){
+            return;
+        }
+        var start = 1;
+        var end = 2;
+        var arr = [1,2];
+        var curNum = 0;
+        var res = [];
+        while(start <= Math.ceil(sum/2)) {
+            curNum = (start + end) * (end - start + 1) / 2;
+            if(curNum == sum){
+                res.push(arr.concat());
+                start++;
+                arr.shift();
+                end++;
+                arr.push(end);
+            }else if(curNum < sum){
+                end++;
+                arr.push(end);
+            }else{
+                arr.shift();
+                start++;
+            }
+        }
+        return res;
+    }
+    console.log(FindContinuousSequence(100));
+</script>
+
+</body>
+</html>
