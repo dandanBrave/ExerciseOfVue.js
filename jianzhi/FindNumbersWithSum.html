@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function FindNumbersWithSum(array, sum)
+    {
+        // write code here
+        if(array.length < 2){
+            return [];
+        }
+        var start = 0;
+        var end = array.length-1;
+        var arr = [];
+        while (start < end){
+            if(array[start] + array[end] == sum){
+                arr.push(array[start]);
+                arr.push(array[end]);
+                break;
+            }else if(array[start] + array[end] < sum){
+                start++;
+            }else{
+                end--;
+            }
+        }
+        return arr;
+    }
+    console.log(FindNumbersWithSum([1,2,4,7,11,15], 15));
+</script>
+
+</body>
+</html>
