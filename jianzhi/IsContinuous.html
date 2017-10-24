@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function IsContinuous(numbers)
+    {
+        // write code here
+        var len = numbers.length;
+        var numOfZero = 0;
+        var numOfInterval = 0;
+        if(numbers == null || len < 1){
+            return false;
+        }
+        numbers.sort(function (a,b) {
+            return a-b;
+        });
+        for(var i=0; i<len-1; i++){
+            if(numbers[i] == 0){
+                numOfZero++;
+                continue;
+            }
+            if(numbers[i]==numbers[i+1]){
+                return false;
+            }
+            numOfInterval += numbers[i+1] - numbers[i] - 1;
+        }
+        return numOfZero >= numOfInterval ? true : false;
+    }
+    console.log(IsContinuous([1,3,0,0,5]));
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
